@@ -2,15 +2,15 @@
   "name": "ios-k12-real-time-connection",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server-01.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "http": "^0.0.1-security"
   }
 }
